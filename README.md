@@ -14,7 +14,7 @@ An autonomous AI assistant built with Streamlit and OpenAI's API, capable of int
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/agentflow.git
+   git clone https://github.com/bdeva1975/agentflow.git
    cd agentflow
    ```
 
